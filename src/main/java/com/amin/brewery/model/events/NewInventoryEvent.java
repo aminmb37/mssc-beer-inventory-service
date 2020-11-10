@@ -1,4 +1,4 @@
-package com.amin.common.events;
+package com.amin.brewery.model.events;
 
 import lombok.NoArgsConstructor;
 
