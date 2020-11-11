@@ -1,5 +1,6 @@
 package com.amin.brewery.model.events;
 
+import com.amin.brewery.model.BeerDto;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
